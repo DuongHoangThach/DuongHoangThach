@@ -111,7 +111,7 @@
   <a href="#" target="blank">
     <img width="90" height="90" style="border-radius: 50%" src="images/rock.jpg" alt="trungquandev-blog" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100007583955000" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="#" target="blank">
